@@ -1,0 +1,45 @@
+*{
+    font-size: 1.2em;
+.header{
+    height: 400px;
+    /* background-image: url(download.jpeg); */
+    background-image: url(../developer/dev.jpg);
+    color: rgb(2, 16, 29);
+    background-repeat:  no-repeat;
+    background-size: 20%;
+    background-position: bottom;
+    background-size: contain;
+    
+}
+.blogs{
+    background-color: blueviolet;
+    box-shadow: 10px 10px gray;
+    margin-bottom: 100px;
+}
+h3{
+    color: magenta;
+    text-decoration: underline wavy forestgreen;
+}
+p{
+    color: darkblue;
+}
+.page-title{
+    font-weight: 700;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+a{
+    text-decoration: none;
+}
+ul li{
+    color: rgb(225, 6, 225);
+    display: inline;
+
+}
+span{
+    border: 1px solid red;
+    height: 600px;
+    width: 100px;
+    margin-top: 50px;
+    /* display: block; */
+    /* display: inline-block; */
+}
